@@ -1,4 +1,4 @@
-# pics
+# Flutter Demo Application
 
 Flutter Vertical Scroll Demo Application.
 
