@@ -1,6 +1,6 @@
 # pics
 
-A new Flutter project.
+Flutter Vertical Scroll Demo Application.
 
 ## Getting Started
 
